@@ -1,6 +1,10 @@
 package main;
 
-import  "fmt";
+import (
+
+	"fmt"
+	"morestrings"
+)
 
 func main(){
 	fmt.Printf("Hello, World\n");
